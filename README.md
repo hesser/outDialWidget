@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/23f3059a-5596-45c7-b3af-a8075f542326)
 # Outdial Widget
 
 A WebEx Contact Center widget for making outbound calls with secure API integration.
